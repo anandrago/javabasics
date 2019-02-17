@@ -103,9 +103,6 @@ public class $1ArithmeticOperation {
 	  case 1 :
 		  System.out.println("One");
 		  break;
-	  
-	  default :
-		  System.out.println("No Match");
 		  
 	  }*/
   }
